@@ -1,8 +1,8 @@
-#### script para "buildar" uma imagem e rodar um container do kali com ferramentas pré instaladas.
+#### script para "buildar" uma imagem e rodar um container do kali com ferramentas pré instaladas para uso em bug bounty.
 
 > usage:
 
-``` $ ./kaliprincipal.sh ```
+``` $ ./bbkali.sh ```
 
 > 1 - Build
 >
